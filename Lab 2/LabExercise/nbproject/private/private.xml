@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/wpy92/OneDrive/Desktop/Sem%204/CSE3023(lab)/CSE3023-S74991/Lab%202/LabExercise/src/java/com/lab/model/Product.java</file>
+            <file>file:/C:/Users/wpy92/OneDrive/Desktop/Sem%204/CSE3023(lab)/CSE3023-S74991/Lab%202/LabExercise/src/java/com/lab/dao/ProductDAO.java</file>
+            <file>file:/C:/Users/wpy92/OneDrive/Desktop/Sem%204/CSE3023(lab)/CSE3023-S74991/Lab%202/LabExercise/src/java/com/lab/controller/InsertProductServlet.java</file>
+            <file>file:/C:/Users/wpy92/OneDrive/Desktop/Sem%204/CSE3023(lab)/CSE3023-S74991/Lab%202/LabExercise/src/java/com/lab/controller/ViewProductServlet.java</file>
+            <file>file:/C:/Users/wpy92/OneDrive/Desktop/Sem%204/CSE3023(lab)/CSE3023-S74991/Lab%202/LabExercise/src/java/com/lab/controller/DeleteProductServlet.java</file>
+            <file>file:/C:/Users/wpy92/OneDrive/Desktop/Sem%204/CSE3023(lab)/CSE3023-S74991/Lab%202/LabExercise/src/java/com/lab/controller/UpdateProductServlet.java</file>
+            <file>file:/C:/Users/wpy92/OneDrive/Desktop/Sem%204/CSE3023(lab)/CSE3023-S74991/Lab%202/LabExercise/web/add_product.html</file>
+        </group>
+    </open-files>
+</project-private>
