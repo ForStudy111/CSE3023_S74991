@@ -34,13 +34,13 @@ String message = request.getParameter("msg");
             <table>
 
                 <tr>
-                    <td>Username</td>
-                    <td><input type="text" name="username" required></td>
+                    <td><label for="username">Username:</label></td>
+                    <td><input type="text" id="username" name="username" required></td>
                 </tr>
 
                 <tr>
-                    <td>Password</td>
-                    <td><input type="password" name="password" required></td>
+                    <td><label for="password">Password:</label></td>
+                    <td><input type="password" id="password" name="password" required></td>
                 </tr>
 
                 <tr>

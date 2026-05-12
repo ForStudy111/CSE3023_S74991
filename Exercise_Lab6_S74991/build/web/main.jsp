@@ -21,7 +21,6 @@
         %>
 
         <table border="1">
-
             <tr>
                 <td>Username</td>
                 <td><%= username%></td>
@@ -36,8 +35,6 @@
                 <td>Last Name</td>
                 <td><%= lastname%></td>
             </tr>
-
         </table>
-
     </body>
 </html>
